@@ -1,0 +1,14 @@
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\bin\Debug\net8.0\UtilitarioApp.exe
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\bin\Debug\net8.0\UtilitarioApp.deps.json
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\bin\Debug\net8.0\UtilitarioApp.runtimeconfig.json
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\bin\Debug\net8.0\UtilitarioApp.dll
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\bin\Debug\net8.0\UtilitarioApp.pdb
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.AssemblyInfoInputs.cache
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.AssemblyInfo.cs
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.csproj.CoreCompileInputs.cache
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.dll
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\refint\UtilitarioApp.dll
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.pdb
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.genruntimeconfig.cache
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\ref\UtilitarioApp.dll
