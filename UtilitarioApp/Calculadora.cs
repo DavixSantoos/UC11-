@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace UtilitarioApp
+﻿namespace UtilitarioApp
 {
     public class Calculadora
     {
@@ -15,7 +9,16 @@ namespace UtilitarioApp
 
         public int Multiplicar(int a, int b) 
         {
+           
             return a * b;
         }
+
+        public int Dividir(double a, double b) 
+        {
+            if (b == 0) return (int)a;
+
+            var resultado = a / b;
+            return (int)Math.Ceiling(resultado);
+        } 
     }
 }

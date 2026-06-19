@@ -12,3 +12,4 @@ C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\refint\Utili
 C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.pdb
 C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.genruntimeconfig.cache
 C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\ref\UtilitarioApp.dll
+C:\Users\david.csjesus\Documents\scr\UtilitarioApp\obj\Debug\net8.0\UtilitarioApp.sourcelink.json

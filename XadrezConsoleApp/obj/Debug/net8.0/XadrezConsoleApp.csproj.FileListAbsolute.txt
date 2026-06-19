@@ -1,0 +1,15 @@
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\bin\Debug\net8.0\XadrezConsoleApp.exe
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\bin\Debug\net8.0\XadrezConsoleApp.deps.json
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\bin\Debug\net8.0\XadrezConsoleApp.runtimeconfig.json
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\bin\Debug\net8.0\XadrezConsoleApp.dll
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\bin\Debug\net8.0\XadrezConsoleApp.pdb
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.AssemblyInfoInputs.cache
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.AssemblyInfo.cs
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.sourcelink.json
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.dll
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\refint\XadrezConsoleApp.dll
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.pdb
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\XadrezConsoleApp.genruntimeconfig.cache
+C:\Users\david.csjesus\Documents\scr\XadrezConsoleApp\obj\Debug\net8.0\ref\XadrezConsoleApp.dll
